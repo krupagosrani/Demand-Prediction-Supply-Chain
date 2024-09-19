@@ -2,7 +2,15 @@
 # Predictive Analysis of Product Demand for Modern Supply Chain Management
 
 This project focuses on predicting product demand to optimize supply chain management for companies operating in fast-paced industries such as retail, manufacturing, and logistics. By developing accurate demand forecasting models using historical data, businesses can improve inventory management, resource allocation, and overall operational efficiency.
-
+## Table of Contents
+. [Key Objectives](#Key-objectives)
+. [Business Problem](#business-problem)
+. [Dataset](#dataset)
+. [Data Cleaning and Preprocessing](#data-cleaning-and-preprocessing)
+. [Data Exploration and Visualization](#data-exploration-and-visualization)
+. [Forecasting Models](#forecasting-models)
+. [Model Evaluation](#model-evaluation)
+. [Conclusion](#conclusion)
 
 ## Key Objectives
 
